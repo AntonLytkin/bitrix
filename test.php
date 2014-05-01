@@ -4,7 +4,7 @@ $APPLICATION->SetTitle("");?>
 //$APPLICATION->AddChainItem('name1', '/link1.html');
   //$APPLICATION->AddChainItem('name2', '/link2.html');
   //$arr=CComponentUtil::GetTemplatesList('bitrix:system.pagenavigation');
-  
+  //changes
 
 $arSelect = Array("DETAIL_PAGE_URL", "PREVIEW_PICTURE");
 $arFilter = Array("IBLOCK_ID"=>1, "ID"=>array(1, 2, 3));
